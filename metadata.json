@@ -1,0 +1,7 @@
+{
+  "name": "NetOffice Timer",
+  "description": "Prototipo de gestión de RRHH para NetOffice, incluyendo control horario, calendario laboral y gestión de incidencias de fichaje.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
